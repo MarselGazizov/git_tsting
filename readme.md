@@ -10,7 +10,7 @@
 ![updating](https://github.com/MarselGazizov/git_tsting/blob/master/for_repo/changing_branch.png?raw=true)
 
 * we `checkout` to remote branch `master`
-* git automatically creates local branch `master` connected to remote branch `master`  
+* git automatically creates local branch `master` connected to remote branch `master` (if there are no local branches with name `master`)
 
 
 
