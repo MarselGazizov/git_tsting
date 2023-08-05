@@ -13,7 +13,7 @@
 <img src="for_repo/changing_branch.png" width="700" alt="10">
 
 * we `checkout` to remote branch `master`
-* git automatically creates local branch `master` connected to remote branch `master`  
+* git automatically creates local branch `master` connected to remote branch `master` (if there are no local branches with name `master`)
 
 
 
