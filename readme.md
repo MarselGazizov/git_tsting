@@ -2,12 +2,15 @@
 
 # 1. to update:
 
-![updating](https://github.com/MarselGazizov/git_tsting/blob/master/for_repo/updating_1.png?raw=true)
-![updating](https://github.com/MarselGazizov/git_tsting/blob/master/for_repo/updating_2.png?raw=true)
+
+<img src="for_repo/updating_1.png" width="200" alt="10">
+
+\
+<img src="for_repo/updating_2.png" width="400" alt="10">
 
 # 2. to change branch:
 
-![updating](https://github.com/MarselGazizov/git_tsting/blob/master/for_repo/changing_branch.png?raw=true)
+<img src="for_repo/changing_branch.png" width="700" alt="10">
 
 * we `checkout` to remote branch `master`
 * git automatically creates local branch `master` connected to remote branch `master`  
